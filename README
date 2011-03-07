@@ -1,0 +1,58 @@
+About:
+======
+
+  Sltv is an audio and video streamer that receives streams from sources
+  and sends a stream using icecast. It has a graphical interface that
+  shows preview and allows applying dynamic effects and configuring stream.
+
+License:
+========
+
+  Sltv is available under the terms of the GPL-2+
+
+  The complete text about the GPL license can be found here:
+  http://www.gnu.org/licenses/gpl-2.0.html
+
+Dependencies:
+=============
+
+  Sltv was tested with the following minimal versions:
+
+  libgstreamer0.10-0 (>= 0.10.19)
+  gstreamer0.10-plugins-base (>= 0.10.19)
+  gstreamer0.10-plugins-good (>= 0.10.8)
+  gstreamer0.10-plugins-bad (>= 0.10.7)
+  gstreamer0.10-ffmpeg (>= 0.10.4)
+  gstreamer0.10-alsa (>= 0.10.19)
+  gstreamer0.10-x (>= 0.10.19)
+  gstreamer0.10-hplugins (>= 0.1.2)
+  python (>= 2.5)
+  python-gst0.10 (>= 0.10.12)
+  python-configobj (>= 4.5.2)
+  python-gobject (>= 2.14.2)
+  python-gtk2 (>= 2.12.1)
+
+  It may work with lower versions, but we haven't tested it.
+  Please, send us any findings you make about minimal versions.
+
+Bugs:
+=====
+
+  The bug tracker can be reached by visiting the website
+  http://gonod.softwarelivre.org/cgi-bin/bugzilla/buglist.cgi?product=sltv
+
+  Before sending a bug report, please verify that you have the latest
+  version of Sltv. Many bugs (major and minor) are fixed at each release,
+  and if yours is out of date, the problem may already have been solved.
+
+Mailing list:
+=============
+
+  http://listas.softwarelivre.org/cgi-bin/mailman/listinfo/sltv-dev
+  sltv-dev@listas.softwarelivre.org
+
+Development:
+============
+
+  http://git.holoscopio.com/?p=sltv.git;a=summary
+  git clone http://git.holoscopio.com/git/sltv.git
