@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/100/trunk/gstmanager/detectors
+END
+firewire.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/34/trunk/gstmanager/detectors/firewire.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/34/trunk/gstmanager/detectors/__init__.py
+END
+alsa.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/100/trunk/gstmanager/detectors/alsa.py
+END
+v4l.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/34/trunk/gstmanager/detectors/v4l.py
+END

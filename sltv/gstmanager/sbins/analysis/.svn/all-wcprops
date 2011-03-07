@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/41/trunk/gstmanager/sbins/analysis
+END
+brightness.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/41/trunk/gstmanager/sbins/analysis/brightness.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/41/trunk/gstmanager/sbins/analysis/__init__.py
+END
+level.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/41/trunk/gstmanager/sbins/analysis/level.py
+END

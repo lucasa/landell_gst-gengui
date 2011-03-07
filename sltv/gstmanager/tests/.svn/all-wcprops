@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/131/trunk/tests
+END
+test_detector.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/99/trunk/tests/test_detector.py
+END
+test_ogg_fileencoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/90/trunk/tests/test_ogg_fileencoder.py
+END
+test_inputselector.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/131/trunk/tests/test_inputselector.py
+END
+test_polling.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/113/trunk/tests/test_polling.py
+END
+test_sbinmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/104/trunk/tests/test_sbinmanager.py
+END
+test_messages.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/94/trunk/tests/test_messages.py
+END
+test_caps_reporting_and_udp_stats.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/124/trunk/tests/test_caps_reporting_and_udp_stats.py
+END
+test_gstmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/33/trunk/tests/test_gstmanager.py
+END

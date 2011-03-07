@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/121/trunk/gstmanager/sbins/sinks
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/34/trunk/gstmanager/sbins/sinks/__init__.py
+END
+ximagesink.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/gstmanager/sbins/sinks/ximagesink.py
+END
+alsa.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/121/trunk/gstmanager/sbins/sinks/alsa.py
+END
+xvimagesink.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/gstmanager/sbins/sinks/xvimagesink.py
+END

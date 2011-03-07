@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/128/trunk/gstmanager/sbins/encoders
+END
+dv.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/75/trunk/gstmanager/sbins/encoders/dv.py
+END
+ogg.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/128/trunk/gstmanager/sbins/encoders/ogg.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/41/trunk/gstmanager/sbins/encoders/__init__.py
+END
+h264.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/60/trunk/gstmanager/sbins/encoders/h264.py
+END

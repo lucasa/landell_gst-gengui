@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/115/trunk/gstmanager/profiles
+END
+dv.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/80/trunk/gstmanager/profiles/dv.py
+END
+ogg.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/115/trunk/gstmanager/profiles/ogg.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/69/trunk/gstmanager/profiles/__init__.py
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/138/trunk/gstmanager
+END
+gstmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/138/trunk/gstmanager/gstmanager.py
+END
+detector.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/100/trunk/gstmanager/detector.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/gstmanager/__init__.py
+END
+profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/119/trunk/gstmanager/profile.py
+END
+event.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/89/trunk/gstmanager/event.py
+END
+sbinmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/116/trunk/gstmanager/sbinmanager.py
+END

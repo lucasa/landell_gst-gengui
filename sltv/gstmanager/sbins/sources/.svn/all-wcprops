@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/102/trunk/gstmanager/sbins/sources
+END
+dv.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/75/trunk/gstmanager/sbins/sources/dv.py
+END
+elphel.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/102/trunk/gstmanager/sbins/sources/elphel.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/34/trunk/gstmanager/sbins/sources/__init__.py
+END
+alsa.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/98/trunk/gstmanager/sbins/sources/alsa.py
+END
+audiotest.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/41/trunk/gstmanager/sbins/sources/audiotest.py
+END
+v4l.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/trunk/gstmanager/sbins/sources/v4l.py
+END
+videotest.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/41/trunk/gstmanager/sbins/sources/videotest.py
+END
