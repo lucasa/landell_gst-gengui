@@ -1,9 +1,15 @@
 About:
 ======
 
-  Sltv is an audio and video streamer that receives streams from sources
+  Landell (also called Sltv) is an audio and video streamer that receives streams from sources
   and sends a stream using icecast. It has a graphical interface that
   shows preview and allows applying dynamic effects and configuring stream.
+
+Atention:
+=======
+  This is a fork of the original Landell tool that integrate it with Gst-gengui [http://github.com/fthiery/gst-gengui], a gstreamer introspection gtk debugger and explorer tool. This fork allow fine tunning almost all the elements of a streaming pipeline.
+
+  The original Landell's git repository is: http://git.holoscopio.com/?p=sltv.git;a=summary 
 
 License:
 ========
